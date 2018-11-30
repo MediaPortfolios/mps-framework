@@ -1,4 +1,4 @@
-Media Portfolios Framework
+# Media Portfolios Framework
 
 Theme framework for the Media Portfolios project.
 
